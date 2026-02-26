@@ -2,7 +2,7 @@
 My fifteenth evaluated program for an academic course.
 
 ## Overview
-This program was coded to answer a specific question for an evaluation in an academic course. These C++ and Python programs open a file and asks the user to enter one or more letters. These entered letters will be converted to uppercase in all the text contained in the file. A new file containing the modifications will be created. The goal was to compare the performance between C++ and Python.
+This program was coded to answer a specific question for an evaluation in an academic course. These C++ and Python programs open a file and asks the user to enter one or more letters. These entered letters will be converted to uppercase in all the text contained in the file. A new file containing the modifications will be created. The goal was to do a comparison between C++ and Python.
 
 ## Features
 - C++ and Python coding with loops and logic
